@@ -1,8 +1,12 @@
+
 # GUI_Handling
 
-## My submission for GUI Programming.
-All four files (Not including README.md) are all related to each other, each one will not work properly if one file is removed.
+### 1. Main Menu
+![Main Menu](Screenshot%20(24).png)
 
-### Changes
-Version 1 
-  - N/A
+### 2. Add New Entry
+![Add Entry](NewEntry.png)
+
+### 3. View All Diaries
+![View Diaries](ViewAll.png)
+
